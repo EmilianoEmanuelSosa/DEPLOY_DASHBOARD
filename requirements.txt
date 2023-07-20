@@ -4,3 +4,4 @@ plotly==5.15.0
 numpy
 altair>=4.1.0
 protobuf==
+protoc >= 3.19.0
