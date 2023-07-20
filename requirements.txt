@@ -12,7 +12,7 @@ pillow>=6.2.0
 requests
 toml
 pydeck>=0.1.dev5
-altair>=3.2.0
+altair>=4.1.0
 blinker
 tornado>=5.0
 watchdog; platform_system != "Darwin"
